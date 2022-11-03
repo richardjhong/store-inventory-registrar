@@ -1,8 +1,8 @@
-# Store Inventory Registar
+# Store Inventory Registrar
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Store Inventory Registar gif](./assets/images/demo.gif)
+![Store Inventory Registrar gif](./assets/images/demo.gif)
 
 ## Description
 This app gets, posts, puts (updates), and deletes a tag, a category, or a product from a SQL database depending on which api route and method are used.
