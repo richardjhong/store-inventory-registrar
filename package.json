@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "store-inventory-registrar",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,11 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/richardjhong/store-inventory-registrar.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardjhong/store-inventory-registrar/issues"
+  },
+  "homepage": "https://github.com/richardjhong/store-inventory-registrar#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
